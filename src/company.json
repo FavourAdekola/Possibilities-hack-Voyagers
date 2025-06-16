@@ -1,0 +1,123 @@
+{
+  "companies": [
+    {
+      "name": "Amazon",
+      "industry": "Technology",
+      "roles": [
+        {
+          "title": "SDE III - Alexa AI",
+          "skills": [
+            "Natural Language Processing",
+            "Speech Recognition Systems",
+            "Distributed Machine Learning",
+            "AWS Services Expertise",
+            "Real-time Processing Systems"
+          ]
+        },
+        {
+          "title": "Senior Cloud Architect",
+          "skills": [
+            "AWS CloudFormation",
+            "Serverless Architecture",
+            "Multi-region Deployment",
+            "Cost Optimization",
+            "Security Compliance"
+          ]
+        },
+        {
+          "title": "Machine Learning Scientist",
+          "skills": [
+            "Reinforcement Learning",
+            "Recommendation Systems",
+            "Large Scale Data Processing",
+            "Deep Learning Optimization",
+            "A/B Testing Frameworks"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nvidia",
+      "industry": "Technology",
+      "roles": [
+        {
+          "title": "GPU Architect",
+          "skills": [
+            "CUDA Programming",
+            "GPU Microarchitecture",
+            "Performance Optimization",
+            "Parallel Computing",
+            "Low-level System Design"
+          ]
+        },
+        {
+          "title": "AI Research Engineer",
+          "skills": [
+            "Deep Learning Framework Development",
+            "Neural Architecture Search",
+            "GPU Acceleration",
+            "Large Model Training",
+            "Distributed Computing"
+          ]
+        },
+        {
+          "title": "Computer Vision Engineer",
+          "skills": [
+            "Real-time Video Processing",
+            "3D Reconstruction",
+            "Computer Graphics",
+            "CUDA Optimization",
+            "Vision-based SLAM"
+          ]
+        },
+        {
+          "title": "Embedded Systems Engineer",
+          "skills": [
+            "Jetson Platform Development",
+            "RTOS Implementation",
+            "Power Optimization",
+            "Edge Computing",
+            "CUDA",
+            "Hardware-Software Co-design"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Google",
+      "industry": "Technology",
+      "roles": [
+        {
+          "title": "Senior Software Engineer - Google Cloud",
+          "skills": [
+            "Kubernetes Expertise",
+            "Cloud Infrastructure Design",
+            "Distributed Systems",
+            "Microservices Architecture",
+            "High Availability Systems"
+          ]
+        },
+        {
+          "title": "Machine Learning Engineer",
+          "skills": [
+            "TensorFlow Development",
+            "Large-scale ML Systems",
+            "Model Optimization",
+            "Cloud ML Platform",
+            "ML Infrastructure"
+          ]
+        },
+        {
+          "title": "Android Developer",
+          "skills": [
+            "Kotlin/Java Expertise",
+            "Android Framework",
+            "Performance Optimization",
+            "System-level Development",
+            "Cross-platform Development"
+          ]
+        }
+      ]
+    }
+  ]
+}

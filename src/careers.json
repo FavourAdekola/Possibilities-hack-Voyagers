@@ -1,0 +1,109 @@
+{
+  "careers": [
+    {
+      "job_title": "Software Engineer",
+      "skills": [
+        "Python",
+        "JavaScript",
+        "Git",
+        "SQL",
+        "REST APIs",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "job_title": "Data Scientist",
+      "skills": [
+        "Python",
+        "Pandas",
+        "NumPy",
+        "Machine Learning",
+        "Data Visualization",
+        "SQL",
+        "Statistics"
+      ]
+    },
+    {
+      "job_title": "Embedded System Engineer",
+      "skills": [
+        "C",
+        "C++",
+        "Python",
+        "RTOS",
+        "System Design",
+        ""
+      ]
+    },
+    {
+      "job_title": "Product Manager",
+      "skills": [
+        "Product Strategy",
+        "User Research",
+        "Agile Methodologies",
+        "Stakeholder Management",
+        "Product Analytics"
+      ]
+    },
+    {
+      "job_title": "Cybersecurity Analyst",
+      "skills": [
+        "Network Security",
+        "Vulnerability Assessment",
+        "Security Tools",
+        "Incident Response",
+        "Basic Scripting"
+      ]
+    },
+    {
+      "job_title": "Digital Marketer",
+      "skills": [
+        "SEO",
+        "Content Marketing",
+        "Social Media Management",
+        "Analytics Tools",
+        "Email Marketing"
+      ]
+    },
+    {
+      "job_title": "Financial Analyst",
+      "skills": [
+        "Financial Modeling",
+        "Excel",
+        "Basic Accounting",
+        "Financial Reporting",
+        "Data Analysis"
+      ]
+    },
+    {
+      "job_title": "Nurse",
+      "skills": [
+        "Patient Assessment",
+        "Medication Administration",
+        "Clinical Procedures",
+        "Emergency Care",
+        "Documentation"
+      ]
+    },
+    {
+      "job_title": "Elementary Teacher",
+      "skills": [
+        "Classroom Management",
+        "Child Development",
+        "Curriculum Design",
+        "Differentiated Instruction",
+        "Assessment Techniques"
+      ]
+    },
+    {
+      "job_title": "Learning Designer",
+      "skills": [
+        "Instructional Design",
+        "Learning Analytics",
+        "Educational Technology",
+        "User Experience",
+        "Gamification"
+      ]
+    }
+  ]
+}
