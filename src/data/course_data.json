@@ -5070,6 +5070,212 @@
         "level": "Easy"
     },
     {
+        "id": "course_9001",
+        "name": "Embedded C Programming Fundamentals",
+        "category": "Embedded Systems",
+        "skills": [
+            "C",
+            "Memory Management",
+            "Pointers",
+            "Device Drivers"
+        ],
+        "length": {
+            "value": 8,
+            "unit": "hours"
+        },
+        "level": "Medium"
+    },
+    {
+        "id": "course_9002",
+        "name": "Advanced C++ for Embedded Systems",
+        "category": "Embedded Systems",
+        "skills": [
+            "C++",
+            "Memory Management",
+            "Real-Time Systems",
+            "Object-Oriented Programming",
+            "Embedded Systems"
+        ],
+        "length": {
+            "value": 10,
+            "unit": "hours"
+        },
+        "level": "Advanced"
+    },
+    {
+        "id": "course_9003",
+        "name": "Python for Embedded Systems",
+        "category": "Embedded Systems",
+        "skills": [
+            "Python",
+            "MicroPython",
+            "Embedded Systems",
+            "IoT Programming",
+            "Device Control"
+        ],
+        "length": {
+            "value": 6,
+            "unit": "hours"
+        },
+        "level": "Medium"
+    },
+    {
+        "id": "course_9004",
+        "name": "Real-Time Operating Systems (RTOS) Fundamentals",
+        "category": "Embedded Systems",
+        "skills": [
+            "RTOS",
+            "FreeRTOS",
+            "Zephyr",
+            "Real-Time Systems",
+            "Task Scheduling"
+        ],
+        "length": {
+            "value": 7,
+            "unit": "hours"
+        },
+        "level": "Advanced"
+    },
+    {
+        "id": "course_9005",
+        "name": "Microcontroller Architecture and Design",
+        "category": "Embedded Systems",
+        "skills": [
+            "Microcontroller Architecture",
+            "ARM Cortex",
+            "AVR",
+            "PIC",
+            "System Design"
+        ],
+        "length": {
+            "value": 9,
+            "unit": "hours"
+        },
+        "level": "Advanced"
+    },
+    {
+        "id": "course_9006",
+        "name": "Embedded Hardware Fundamentals",
+        "category": "Embedded Systems",
+        "skills": [
+            "Digital Circuits",
+            "Analog Circuits",
+            "Power Management",
+            "Oscilloscopes",
+            "Multimeters"
+        ],
+        "length": {
+            "value": 8,
+            "unit": "hours"
+        },
+        "level": "Medium"
+    },
+    {
+        "id": "course_9007",
+        "name": "Communication Protocols for Embedded Systems",
+        "category": "Embedded Systems",
+        "skills": [
+            "I2C",
+            "SPI",
+            "UART",
+            "CAN",
+            "LIN",
+            "USB"
+        ],
+        "length": {
+            "value": 6,
+            "unit": "hours"
+        },
+        "level": "Medium"
+    },
+    {
+        "id": "course_9008",
+        "name": "Embedded Systems Debugging and Tools",
+        "category": "Embedded Systems",
+        "skills": [
+            "JTAG",
+            "SWD",
+            "GDB",
+            "Logic Analyzers",
+            "Debugging Techniques"
+        ],
+        "length": {
+            "value": 5,
+            "unit": "hours"
+        },
+        "level": "Advanced"
+    },
+    {
+        "id": "course_9009",
+        "name": "Low-Level Embedded Software Development",
+        "category": "Embedded Systems",
+        "skills": [
+            "Device Drivers",
+            "Bootloaders",
+            "Bare-Metal Programming",
+            "Register-Level Programming",
+            "System Programming"
+        ],
+        "length": {
+            "value": 8,
+            "unit": "hours"
+        },
+        "level": "Advanced"
+    },
+    {
+        "id": "course_9010",
+        "name": "Version Control for Embedded Systems",
+        "category": "Embedded Systems",
+        "skills": [
+            "Git",
+            "GitHub",
+            "GitLab",
+            "Branch Management",
+            "Version Control Best Practices"
+        ],
+        "length": {
+            "value": 4,
+            "unit": "hours"
+        },
+        "level": "Medium"
+    },
+    {
+        "id": "course_9011",
+        "name": "CUDA Programming Fundamentals",
+        "category": "GPU Computing",
+        "skills": [
+            "CUDA",
+            "GPU Programming",
+            "Parallel Computing",
+            "Memory Management",
+            "CUDA Streams",
+            "CUDA Kernels"
+        ],
+        "length": {
+            "value": 12,
+            "unit": "hours"
+        },
+        "level": "Advanced"
+    },
+    {
+        "id": "course_9012",
+        "name": "Advanced CUDA Programming",
+        "category": "GPU Computing",
+        "skills": [
+            "CUDA",
+            "Performance Optimization",
+            "Memory Hierarchy",
+            "CUDA Streams",
+            "CUDA Memory Management",
+            "CUDA Best Practices"
+        ],
+        "length": {
+            "value": 15,
+            "unit": "hours"
+        },
+        "level": "Advanced"
+    },
+    {
         "id": "course_3357",
         "name": "Creative Writing Workshop",
         "category": "Writing",
@@ -5083,6 +5289,74 @@
             "unit": "hours"
         },
         "level": "Hard"
+    },
+    {
+        "id": "course_9013",
+        "name": "Jetson Platform Development Fundamentals",
+        "category": "GPU Computing",
+        "skills": [
+            "Jetson Platform Development",
+            "CUDA",
+            "Edge Computing",
+            "GPU Programming",
+            "System Integration"
+        ],
+        "length": {
+            "value": 10,
+            "unit": "hours"
+        },
+        "level": "Advanced"
+    },
+    {
+        "id": "course_9014",
+        "name": "Advanced Jetson Platform Development",
+        "category": "GPU Computing",
+        "skills": [
+            "Jetson Platform Development",
+            "CUDA Optimization",
+            "Power Management",
+            "Performance Tuning",
+            "System Architecture"
+        ],
+        "length": {
+            "value": 12,
+            "unit": "hours"
+        },
+        "level": "Advanced"
+    },
+    {
+        "id": "course_9015",
+        "name": "Power Optimization for Embedded Systems",
+        "category": "Embedded Systems",
+        "skills": [
+            "Power Optimization",
+            "Energy Management",
+            "Power Profiling",
+            "Thermal Management",
+            "System Performance"
+        ],
+        "length": {
+            "value": 8,
+            "unit": "hours"
+        },
+        "level": "Advanced"
+    },
+    {
+        "id": "course_9016",
+        "name": "Advanced Power Optimization Techniques",
+        "category": "Embedded Systems",
+        "skills": [
+            "Power Optimization",
+            "Dynamic Voltage Scaling",
+            "Power-Aware Design",
+            "Energy Efficient Algorithms",
+            "System-Level Optimization"
+        ],
+        "length": {
+            "value": 10,
+            "unit": "hours"
+        },
+        "level": "Advanced"
     },
     {
         "id": "course_2070",

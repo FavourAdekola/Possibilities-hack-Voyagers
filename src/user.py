@@ -3,14 +3,14 @@ class User:
         self.name = name
         self.career_goal = ""
         self.dream_company = ""
-        self.skills = [] # holds a list of skills to be parsed from a resume.
+        self.skills = []
 
     def parse_skills(self, resume):
-        # TODO: implement skill parsing logic.
+        # If there is time we would parse skills from a resume.
         pass
 
     def set_skills_default(self):
-        self.skills = ["python", "c++", "c", "rust"]
-        self.career_goal = "Embedded System Engineer"
+        self.skills = ["Python", "C++", "C", "Rust"]
+        self.career_goal = "Embedded Systems Engineer"
         self.dream_company = "Nvidia"
     
