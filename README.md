@@ -15,10 +15,23 @@ On top of that, LinkedIn Voyage looks to help make LinkedIn learning a more desi
 ## Features
 
 LinkedIn Voyage provides:
+
 A node-based visual learning graph
 Personalized to a user’s:
+
 ✅ Career Goal
 ✅ Target Company
 ✅ Parsed Resume Skills
+
 Each node (skill) includes:
+
 📘 Recommended course(s) to complete it
+
+Throughout the course:
+
+✅ Personalized projects
+
+At the end:
+
+✅ Connections to Job Opening and Recruiters
+
