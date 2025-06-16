@@ -8,7 +8,9 @@ Job seekers have diverse and specific career goals, but LinkedIn Learning curren
 
 ## Solution 
 
-LinkedIn Voyage solves this by generating a personalized learning roadmap based on a user’s Career Goal, Dream Company, and Resume Skill Gaps — helping them take targeted, efficient steps toward the role they truly want.
+LinkedIn Voyage solves this by generating a personalized learning roadmap based on a user’s Career Goal, Dream Company, and Resume Skill Gaps — helping them take targeted, efficient steps toward the role they truly want. Additionally, it also helps users find the best courses to complete their skill gaps. 
+
+On top of that, LinkedIn Voyage looks to help make LinkedIn learning a more desirable platform. Users on their Voyage will recieve personalized projects to build out in the midst of their journey to help verify their skill acquisition and build a portfolio of work viable for their career goal. At the end of the journey they will be linked to jobs, and recruiters to help them take the next step in their career. 
 
 ## Features
 
