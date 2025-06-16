@@ -1,4 +1,5 @@
 import chatportal
+import geminiportal
 
 # Call the OpenAI API
 
@@ -10,7 +11,7 @@ test_courseset = ["Intro to python", "intro to react", "frontend programming", "
 user = f"I want to be a {desired_career}!"
 
 def main():
-    chatportal.getCourses(test_skillset, test_courseset, user)
+    geminiportal.getCourses(test_skillset, test_courseset, user)
 
 if __name__ == "__main__":
     main()

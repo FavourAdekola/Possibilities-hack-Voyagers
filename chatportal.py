@@ -1,7 +1,7 @@
 from openai import OpenAI
 import env
 
-client = OpenAI(api_key=env.OPENAI_API_KEY)
+client = OpenAI(api_key=env.getKeyOpenAI())
 
 def getCourses(list_of_skills, courses, user):
     context = formatContext(user)
