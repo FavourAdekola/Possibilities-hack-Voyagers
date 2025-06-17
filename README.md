@@ -35,3 +35,4 @@ At the end:
 
 ✅ Connections to Job Opening and Recruiters
 
+All of this to make a memorable, impactful experience for LinkedIn learning users as well as bring a new level of value to the lessons in the platform while playing to LinkedIn's strengths.
