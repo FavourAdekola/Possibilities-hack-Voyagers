@@ -1,5 +1,7 @@
-import chatportal
-import geminiportal
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from src.gemini_portal import getCourses
 
 # Call the OpenAI API
 
@@ -11,7 +13,7 @@ test_courseset = ["Intro to python", "intro to react", "frontend programming", "
 user = f"I want to be a {desired_career}!"
 
 def main():
-    geminiportal.getCourses(test_skillset, test_courseset, user)
+    getCourses(test_skillset, test_courseset, user)
 
 if __name__ == "__main__":
     main()

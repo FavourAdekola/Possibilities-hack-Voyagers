@@ -1,8 +1,6 @@
 import google.generativeai as genai
 import env
 
-import google.generativeai as genai
-
 # Load API key
 genai.configure(api_key=env.getKeyGemini())
 

@@ -4,7 +4,7 @@ import json
 class Analysis:
     def __init__(self):
         pass
-    
+        
     def find_required_skills(self, career_goal, dream_company):
         try:
             # Read career data

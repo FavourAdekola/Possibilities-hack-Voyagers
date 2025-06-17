@@ -1,9 +1,12 @@
 import unittest
-from src.skill_analysis import find_gap, find_required_skills
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from src.analysis import Analysis
 from src.user import User
 
 class TestSkillAnalysis(unittest.TestCase):
-    def setUp(self):
+    def setUp(self):   
         # Create test user
         self.user = User("Test User")
         self.user.skills = ["Python", "C++", "Git"]
@@ -15,12 +18,12 @@ class TestSkillAnalysis(unittest.TestCase):
         # Test with no gap
         user_skills = ["Python", "C++", "Git"]
         required_skills = ["Python", "C++", "Git"]
-        self.assertEqual(find_gap(user_skills, required_skills), [])
+        self.assertEqual(Analysis.find_gap(user_skills, required_skills), [])
 
         # Test with some missing skills
         user_skills = ["Python", "C++"]
         required_skills = ["Python", "C++", "Git", "CUDA"]
-        self.assertEqual(set(find_gap(user_skills, required_skills)), set(["Git", "CUDA"]))
+        self.assertEqual(set(Analysis.find_gap(user_skills, required_skills)), set(["Git", "CUDA"]))
 
         # Test with case sensitivity
         user_skills = ["python", "C++"]
