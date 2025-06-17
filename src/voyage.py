@@ -1,4 +1,4 @@
-from skill_analysis import find_gap, find_required_skills   
+from analysis import find_gap, find_required_skills   
 
 class Voyage:
     def __init__(self, user):
